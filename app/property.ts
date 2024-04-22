@@ -1,4 +1,4 @@
-export const yourName = "kuro";
-export const twitterLink = "https://twitter.com/"
-export const instagramLink = "https://instagram.com/"
-export const githubLink = "https://instagram.com/"
+export const yourName = "shunsuke nakabayashi";
+export const twitterLink = "https://twitter.com/kurokodairu55"
+export const instagramLink = "https://www.instagram.com/shun40310/"
+export const githubLink = ""
